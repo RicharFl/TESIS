@@ -1,0 +1,47 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {vii}}{chapter*.3}%
+\contentsline {chapter}{\'{I}ndice de tablas}{\es@scroman {ix}}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Planteamiento del problema}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Definición del problema}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Justificación}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Propuesta de solución}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Mesa de Servicio}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Integración de mesa a la plataforma como servicio (PaaS)}{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Integración con ERP}{8}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Alcances}{8}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objetivo General}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Objetivos específicos}{9}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Estado del arte}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Software de Mesas de Servicios en el mercado}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}BMC Helix ITSM}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Remedy Service Desk de BMC}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Aranda ASDK}{12}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Tesis y trabajos de investigación relacionados}{13}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Marco Teórico}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}¿Qué es una mesa de Servicio?}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Características de la mesa de servicio}{15}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Plataforma como Servicio (PaaS)}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Ventajas de PaaS }{16}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Servicios Web}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4} ITIL }{17}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Evolución de ITIL.}{17}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}¿Qué es un Servicio?}{19}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}¿Qué es la utilidad?}{19}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}¿Que son las garantías?}{19}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Ciclo de vida del servicio ITIL}{19}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Estrategia del Servicio (Service Strategy)}{20}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Diseño de Servicio (Service Design, SD)}{20}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Transición del Servicio (Service Transition, ST)}{21}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Operación de Servicio (Service Operation, SO).}{22}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Mejora Continua del Servicio (Continuous Service Improvement, CSI).}{22}{subsection.3.5.5}%
+\contentsline {chapter}{\numberline {4}Análisis y Diseño}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Requerimientos del sistema}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Requerimientos no funcionales }{23}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Portafolio de servicio}{24}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Categorización de servicios}{24}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Matriz de urgencia e impacto}{26}{subsubsection.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.1.4}Nivel de servicio}{27}{subsubsection.4.1.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.1.5}Roles y puesto de mesa de servicio}{28}{subsubsection.4.1.1.5}%
+\contentsline {section}{\numberline {4.2}Requerimientos funcionales}{30}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{31}{chapter.5}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{33}{appendix*.19}%

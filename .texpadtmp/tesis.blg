@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tesis.aux
+A level-1 auxiliary file: Agradecimientos/Dedicatoria.aux
+A level-1 auxiliary file: Agradecimientos/Agradecimientos.aux
+A level-1 auxiliary file: Declaracion/Declaracion.aux
+A level-1 auxiliary file: Resumen/Resumen.aux
+A level-1 auxiliary file: Capitulo1/Introduccion.aux
+A level-1 auxiliary file: Capitulo2/Marco_teorico.aux
+A level-1 auxiliary file: Capitulo3/Diseno_del_experimento.aux
+A level-1 auxiliary file: Capitulo4/Resultados.aux
+A level-1 auxiliary file: Capitulo5/Conclusiones.aux
+A level-1 auxiliary file: Apendice1/Apendice1.aux
+The style file: ../Latex/Classes/PhDbiblio-url2.bst
+I found no \citation commands---while reading file tesis.aux
+Database file #1: ../Bibliografia/Referencias.bib
+You've used 0 entries,
+            2776 wiz_defined-function locations,
+            611 strings with 5210 characters,
+and the built_in function-call counts, 34 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 23
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There was 1 error message)
