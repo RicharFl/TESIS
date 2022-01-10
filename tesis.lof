@@ -1,9 +1,33 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Arquitectura de mesa de servicio, como servicio\relax }}{5}{figure.caption.8}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Intregacion de MS con la arquitectura del sistema como Infraesturura PaaS\relax }}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Intregacion de MS con la arquitectura del sistema como Infraesturura PaaS\relax }}{7}{figure.caption.9}%
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Implementación de Mesa de Servicio en ERP\relax }}{8}{figure.caption.10}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Tabla comparativa de bases de datos relacionales\relax }}{33}{figure.caption.20}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de clases General del sistema"\relax }}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama de secuencia - "Registro y levantamiento de incidentes"\relax }}{43}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Interfaz Home- Levantamiento de incidentes"\relax }}{44}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Interfaz Levantamiento de incidentes"\relax }}{45}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Diagrama de secuencia - "Gestiona y cierre de incidentes"\relax }}{49}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Interfaz- home de gestión de incidentes\relax }}{50}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Interfaz- Opción de documentación o cierre de ticket \relax }}{51}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Interfaz- Documentación de seguimiento Ticket\relax }}{52}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Interfaz- Documentación de Cierre de Ticket\relax }}{53}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Interfaz- Asignacion a de solicitud a almacén\relax }}{54}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Interfaz- Requisición de solicitud a almacén\relax }}{55}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de secuencia - "Gestiona de Activos"\relax }}{59}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Interfaz- Home de gestión de activos\relax }}{60}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Interfaz- Documentación de solicitud de activo \relax }}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Interfaz- Despacho de refacción \relax }}{62}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Interfaz - Gestión de informes\relax }}{65}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Interfaz - Caso de Uso Modulo de gestión de usuarios\relax }}{66}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Interfaz - home administrador de sistema\relax }}{73}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Interfaz - Baja de usuario administrador \relax }}{73}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Interfaz -Modificación de datos de Usuarios\relax }}{74}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Interfaz - Nuevo usuario\relax }}{75}{figure.caption.60}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Diagrama de clases del sistema\relax }}{76}{figure.caption.61}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Diagrama de base de datos\relax }}{94}{figure.caption.80}%
 \addvspace {10\p@ }

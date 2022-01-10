@@ -305,7 +305,7 @@
        {\if@restonecol\twocolumn\else\newpage\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%            PORTADA de la UNAM              %
+%            PORTADA de la IPN               %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \renewcommand{\maketitle}{%
@@ -314,7 +314,7 @@
 \thispagestyle{empty}
 %% Barra izquierda - Escudos
 \hskip -2cm
-\begin{minipage}[c][10cm][s]{3cm}
+\begin{minipage}[c][10cm][s]{3cm}   
   \begin{center}
     \ifportada
         \includegraphics[height=2.6cm]{Latex/Classes/POLI2}\\[10pt]
@@ -336,7 +336,7 @@
 \begin{minipage}[c][9.5cm][s]{11cm}
   \begin{center}
     % Barra superior
-    {\large \scshape Instito Politecnico Nacional}
+    {\large \scshape Instituto Politecnico Nacional}
     \vspace{.3cm}
     \ifportada
         %\hrule height2.5pt
@@ -364,14 +364,14 @@
 
     % Tipo de trabajo
     \makebox[8cm][s]{\Huge T E S I S}\\[8pt]
-    QUE PARA OBTENER EL TÍTULO DE:\\[5pt]
+    PARA OBTENER EL TÍTULO DE:\\[5pt]
     \textbf{{\@degree}}\\[40pt]
     PRESENTA:\\[5pt]
     \textbf{{\@author}}
 
     \vspace{2cm}
 
-    {\small DIRECTOR DE TESIS:\\ {\@director}}
+    {\small DIRECTORES DE TESIS:\\ {\@director}}
 
     \vspace{0.5cm}
 

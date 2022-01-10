@@ -1,7 +1,7 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Representación del SLA de cumplimiento e incumplimiento de tiempos de servicios requeridos estipulados a nivel contrato, zona foránea\relax }}{3}{table.caption.6}%
-\contentsline {table}{\numberline {1.2}{\ignorespaces Add caption\relax }}{4}{table.caption.7}%
+\contentsline {table}{\numberline {1.1}{\ignorespaces Representación del SLA zona foránea\relax }}{3}{table.caption.6}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Representación del SLA zona centro\relax }}{4}{table.caption.7}%
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {2.1}{\ignorespaces Cuadro de comparación software en mercado- solución propuesta\relax }}{14}{table.caption.11}%
 \addvspace {10\p@ }
@@ -11,6 +11,44 @@
 \contentsline {table}{\numberline {4.3}{\ignorespaces Incidentes de tipo hardware\relax }}{25}{table.caption.14}%
 \contentsline {table}{\numberline {4.4}{\ignorespaces Categorización de requerimientos de procesos administrativos \relax }}{26}{table.caption.15}%
 \contentsline {table}{\numberline {4.5}{\ignorespaces Matriz de urgencia e impacto\relax }}{27}{table.caption.16}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces Niveles de SLA\relax }}{28}{table.caption.17}%
-\contentsline {table}{\numberline {4.7}{\ignorespaces Modelo RACI de roles\relax }}{30}{table.caption.18}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Niveles de SLA\relax }}{27}{table.caption.17}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Matriz de escalacion\relax }}{28}{table.caption.18}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Modelo RACI de roles\relax }}{31}{table.caption.19}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Tabla comparativa de bases de datos no relacionales\relax }}{34}{table.caption.21}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Comparación entre proveedores de nube\relax }}{35}{table.caption.22}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Comparativo de marcos de trabajo para Front End \relax }}{36}{table.caption.23}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Comparación de marcos de trabajo para Back End \relax }}{37}{table.caption.24}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Requerimientos funciones del modulo-registro y levantamiento de incidentes \relax }}{41}{table.caption.26}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Flujo de trabajo, levantamiento y registro de incidentes\relax }}{42}{table.caption.27}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Requerimientos funciones del modulo- Gestión de incidentes\relax }}{46}{table.caption.31}%
+\contentsline {table}{\numberline {4.16}{\ignorespaces Flujo de trabajo - Gestión de incidentes \relax }}{48}{table.caption.32}%
+\contentsline {table}{\numberline {4.17}{\ignorespaces Requerimientos del modulo de gestión de activos\relax }}{56}{table.caption.40}%
+\contentsline {table}{\numberline {4.18}{\ignorespaces Actividades del proceso de Gestión de Activos\relax }}{57}{table.caption.41}%
+\contentsline {table}{\numberline {4.19}{\ignorespaces Gestion de activos- altas. actualización y bajas\relax }}{58}{table.caption.42}%
+\contentsline {table}{\numberline {4.20}{\ignorespaces Requerimientos del modulo de Gestión de informes\relax }}{63}{table.caption.47}%
+\contentsline {table}{\numberline {4.21}{\ignorespaces Requerimientos de modulo de gestión de usuarios \relax }}{66}{table.caption.49}%
+\contentsline {table}{\numberline {4.22}{\ignorespaces Caso de uso-bloqueo de usuarios\relax }}{67}{table.caption.51}%
+\contentsline {table}{\numberline {4.23}{\ignorespaces Caso de uso-desbloqueo de usuarios\relax }}{68}{table.caption.52}%
+\contentsline {table}{\numberline {4.24}{\ignorespaces Caso de uso- Modificación de contraseña\relax }}{69}{table.caption.53}%
+\contentsline {table}{\numberline {4.25}{\ignorespaces Caso de uso - Asignacion de permisos\relax }}{70}{table.caption.54}%
+\contentsline {table}{\numberline {4.26}{\ignorespaces Caso de uso - Alta de usuarios\relax }}{71}{table.caption.55}%
+\contentsline {table}{\numberline {4.27}{\ignorespaces Caso de uso - Baja de usuarios \relax }}{72}{table.caption.56}%
+\contentsline {table}{\numberline {4.28}{\ignorespaces Descripcion de clase- Usuarios sistema\relax }}{77}{table.caption.62}%
+\contentsline {table}{\numberline {4.29}{\ignorespaces Descripcion de clase-Administrador\relax }}{78}{table.caption.63}%
+\contentsline {table}{\numberline {4.30}{\ignorespaces Descripcion de clase-Agente\relax }}{79}{table.caption.64}%
+\contentsline {table}{\numberline {4.31}{\ignorespaces Descripcion de clase-Gerente\relax }}{79}{table.caption.65}%
+\contentsline {table}{\numberline {4.32}{\ignorespaces Descripcion de clase-Coordinador\_Zona\relax }}{80}{table.caption.66}%
+\contentsline {table}{\numberline {4.33}{\ignorespaces Descripcion de clase-Técnico\_especialista\relax }}{81}{table.caption.67}%
+\contentsline {table}{\numberline {4.34}{\ignorespaces Descripcion de clase-Asignar\relax }}{82}{table.caption.68}%
+\contentsline {table}{\numberline {4.35}{\ignorespaces Descripcion de clase-Ticket\relax }}{83}{table.caption.69}%
+\contentsline {table}{\numberline {4.36}{\ignorespaces Descripcion de clase-Users\_Operativos\relax }}{84}{table.caption.70}%
+\contentsline {table}{\numberline {4.37}{\ignorespaces Descripcion de clase-Incidente\relax }}{85}{table.caption.71}%
+\contentsline {table}{\numberline {4.38}{\ignorespaces Descripcion de clase-Requerimiento\relax }}{86}{table.caption.72}%
+\contentsline {table}{\numberline {4.39}{\ignorespaces Descripcion de clase-Cuenta\relax }}{87}{table.caption.73}%
+\contentsline {table}{\numberline {4.40}{\ignorespaces Descripcion de clase-Prioridad\_ impacto\relax }}{88}{table.caption.74}%
+\contentsline {table}{\numberline {4.41}{\ignorespaces Descripcion de clase-Refacciones\relax }}{89}{table.caption.75}%
+\contentsline {table}{\numberline {4.42}{\ignorespaces Descripcion de clase-Solicitar\_refaccion\relax }}{90}{table.caption.76}%
+\contentsline {table}{\numberline {4.43}{\ignorespaces Descripcion de clase-Entrada\relax }}{91}{table.caption.77}%
+\contentsline {table}{\numberline {4.44}{\ignorespaces Descripcion de clase-Salidas\relax }}{92}{table.caption.78}%
+\contentsline {table}{\numberline {4.45}{\ignorespaces Descripcion de clase-Cliente\relax }}{93}{table.caption.79}%
 \addvspace {10\p@ }

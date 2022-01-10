@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.8)  11 OCT 2021 00:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.8)  20 DEC 2021 00:04
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -704,65 +704,96 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks35
 \@floatcapt=\box115
 )
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip102
+\LTright=\skip103
+\LTpre=\skip104
+\LTpost=\skip105
+\LTchunksize=\count340
+\LTcapwidth=\dimen264
+\LT@head=\box116
+\LT@firsthead=\box117
+\LT@foot=\box118
+\LT@lastfoot=\box119
+\LT@gbox=\box120
+\LT@cols=\count341
+\LT@rows=\count342
+\c@LT@tables=\count343
+\c@LT@chunks=\count344
+\LT@p@ftn=\toks36
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks37
+)
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
 
 (Latex/Macros/MacroFile1.tex)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count340
-\l__pdf_internal_box=\box116
+\l__color_backend_stack_int=\count345
+\l__pdf_internal_box=\box121
 ) (tesis.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 
 (Resumen/Resumen.aux) (Introduccion/Introduccion.aux)
 (Capitulo1/Introduccion.aux) (Capitulo2/Marco_teorico.aux)
-(Capitulo3/Diseno_del_experimento.aux) (Capitulo4/Resultados.aux)
-(Capitulo5/Conclusiones.aux) (Apendice1/Apendice1.aux))
+(Capitulo3/Diseno_del_experimento.aux) (Capitulo4/Resultados.aux
+
+LaTeX Warning: Label `fig:DSLDI' multiply defined.
+
+) (Capitulo5/Conclusiones.aux) (Apendice1/Apendice1.aux))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-\c@lstlisting=\count341
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+\c@lstlisting=\count346
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Program Files\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: rotating package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
-\scratchdimen=\dimen264
-\scratchbox=\box117
-\nofMPsegments=\count343
-\nofMParguments=\count344
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count345
-\MPscratchDim=\dimen265
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
-\everyMPtoPDFconversion=\toks37
+\scratchcounter=\count347
+\scratchdimen=\dimen265
+\scratchbox=\box122
+\nofMPsegments=\count348
+\nofMParguments=\count349
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen266
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
+\everyMPtoPDFconversion=\toks39
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -771,7 +802,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 46.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -782,54 +813,54 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count348
+\c@section@level=\count353
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 (tesis.out) (tesis.out)
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
 
-Package backref Info: ** backref set up for natbib ** on input line 46.
-<Latex/Classes/POLI2.png, id=187, 525.965pt x 778.91pt>
+Package backref Info: ** backref set up for natbib ** on input line 48.
+<Latex/Classes/POLI2.png, id=375, 525.965pt x 778.91pt>
 File: Latex/Classes/POLI2.png Graphic file (type png)
 <use Latex/Classes/POLI2.png>
-Package pdftex.def Info: Latex/Classes/POLI2.png  used on input line 49.
+Package pdftex.def Info: Latex/Classes/POLI2.png  used on input line 51.
 (pdftex.def)             Requested size: 49.95114pt x 73.97733pt.
-<Latex/Classes/UPIITA.png, id=189, 284.5029pt x 284.5029pt>
+<Latex/Classes/UPIITA.png, id=377, 284.5029pt x 284.5029pt>
 File: Latex/Classes/UPIITA.png Graphic file (type png)
 <use Latex/Classes/UPIITA.png>
-Package pdftex.def Info: Latex/Classes/UPIITA.png  used on input line 49.
+Package pdftex.def Info: Latex/Classes/UPIITA.png  used on input line 51.
 (pdftex.def)             Requested size: 73.97768pt x 73.97733pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
 
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 49
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 51
 .
 
 (C:\Program Files\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \vbox (255.31291pt too high) detected at line 49
+Overfull \vbox (255.31291pt too high) detected at line 51
  []
 
 
-Underfull \hbox (badness 10000) detected at line 49
+Underfull \hbox (badness 10000) detected at line 51
 \OT1/cmr/m/n/24.88 T E S I S
  []
 
 
-Overfull \vbox (300.49402pt too high) detected at line 49
+Overfull \vbox (300.49402pt too high) detected at line 51
  []
 
 [1
@@ -876,33 +907,36 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
 (spanish)                faked small caps on input line 3.
 
-[5])
+[5]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [6])
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
- [6] (tesis.lof
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+ [7] [8
+
+] (tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write6
 \openout6 = `tesis.lof'.
 
- [7
-
-] [8
+ [9] [10
 
 ] (tesis.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+ [11])
 \tf@lot=\write7
 \openout7 = `tesis.lot'.
 
- [9] [10
-
-]
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [12]
 \openout2 = `Introduccion/Introduccion.aux'.
 
 
@@ -929,6 +963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 [1
 
 
+
 ]
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -953,80 +988,83 @@ Overfull \hbox (17.27795pt too wide) in paragraph at lines 81--82
 
 
 ]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
  [4]
-<Capitulo1/Img/MesadeServicioDiagrama.png, id=337, 371.88937pt x 256.70906pt>
+<Capitulo1/Img/MesadeServicioDiagrama.png, id=704, 371.88937pt x 256.70906pt>
 File: Capitulo1/Img/MesadeServicioDiagrama.png Graphic file (type png)
 <use Capitulo1/Img/MesadeServicioDiagrama.png>
 Package pdftex.def Info: Capitulo1/Img/MesadeServicioDiagrama.png  used on inpu
-t line 116.
-(pdftex.def)             Requested size: 371.30594pt x 256.31279pt.
+t line 119.
+(pdftex.def)             Requested size: 453.82396pt x 313.27467pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
+Overfull \hbox (41.259pt too wide) in paragraph at lines 119--120
+ [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
 [5 <./Capitulo1/Img/MesadeServicioDiagrama.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-<Capitulo1/Img/AMDS.png, id=346, 505.89pt x 191.9672pt>
+<Capitulo1/Img/AMDS.png, id=712, 505.89pt x 191.9672pt>
 File: Capitulo1/Img/AMDS.png Graphic file (type png)
 <use Capitulo1/Img/AMDS.png>
-Package pdftex.def Info: Capitulo1/Img/AMDS.png  used on input line 156.
+Package pdftex.def Info: Capitulo1/Img/AMDS.png  used on input line 157.
 (pdftex.def)             Requested size: 371.30594pt x 140.8994pt.
-LaTeX Info: Redefining \. on input line 163.
-LaTeX Info: Redefining \% on input line 163.
-[6 <./Capitulo1/Img/AMDS.png>]
-LaTeX Info: Redefining \. on input line 193.
-LaTeX Info: Redefining \% on input line 193.
- [7]
-<Capitulo1/Img/ERP-MDS.png, id=357, 505.89pt x 100.87688pt>
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+[6]
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
+ [7 <./Capitulo1/Img/AMDS.png>]
+<Capitulo1/Img/ERP-MDS.png, id=724, 505.89pt x 100.87688pt>
 File: Capitulo1/Img/ERP-MDS.png Graphic file (type png)
 <use Capitulo1/Img/ERP-MDS.png>
-Package pdftex.def Info: Capitulo1/Img/ERP-MDS.png  used on input line 200.
+Package pdftex.def Info: Capitulo1/Img/ERP-MDS.png  used on input line 201.
 (pdftex.def)             Requested size: 371.30594pt x 74.04124pt.
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
- [8 <./Capitulo1/Img/ERP-MDS.png>])
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
- [9]
+LaTeX Info: Redefining \. on input line 224.
+LaTeX Info: Redefining \% on input line 224.
+ [8 <./Capitulo1/Img/ERP-MDS.png>]
+LaTeX Info: Redefining \. on input line 241.
+LaTeX Info: Redefining \% on input line 241.
+ [9])
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+
+[10]
 \openout2 = `Capitulo2/Marco_teorico.aux'.
 
-
-(Capitulo2/Marco_teorico.tex [10
+ (Capitulo2/Marco_teorico.tex
+Cap\'{\i }tulo 2.
+[11
 
 
 
 
 ]
-Cap\'{\i }tulo 2.
-[11]
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
  [12]
@@ -1038,8 +1076,8 @@ Overfull \hbox (29.76643pt too wide) in paragraph at lines 97--98
  []
 
 )
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
  [14]
 \openout2 = `Capitulo3/Diseno_del_experimento.aux'.
 
@@ -1069,8 +1107,8 @@ LaTeX Info: Redefining \% on input line 145.
 LaTeX Info: Redefining \. on input line 161.
 LaTeX Info: Redefining \% on input line 161.
  [21])
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
  [22]
 \openout2 = `Capitulo4/Resultados.aux'.
 
@@ -1082,61 +1120,754 @@ Cap\'{\i }tulo 4.
 
 
 ]
-Overfull \hbox (98.86803pt too wide) in paragraph at lines 66--67
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [24]
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
+ [25]
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
+ [26]
+Overfull \hbox (7.28474pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
-[24]
-LaTeX Info: Redefining \. on input line 143.
-LaTeX Info: Redefining \% on input line 143.
- [25]
-Overfull \hbox (54.58627pt too wide) in paragraph at lines 186--200
+LaTeX Info: Redefining \. on input line 246.
+LaTeX Info: Redefining \% on input line 246.
+[27]
+LaTeX Info: Redefining \. on input line 290.
+LaTeX Info: Redefining \% on input line 290.
+ [28]
+LaTeX Info: Redefining \. on input line 324.
+LaTeX Info: Redefining \% on input line 324.
+ [29]
+Overfull \hbox (24.87724pt too wide) in paragraph at lines 386--387
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 395.
+LaTeX Info: Redefining \% on input line 395.
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+LaTeX Info: Redefining \. on input line 423.
+LaTeX Info: Redefining \% on input line 423.
+[31]
+<Capitulo4/Img/GestionRnf/BaseDatos.jpg, id=845, 650.43pt x 578.16pt>
+File: Capitulo4/Img/GestionRnf/BaseDatos.jpg Graphic file (type jpg)
+<use Capitulo4/Img/GestionRnf/BaseDatos.jpg>
+Package pdftex.def Info: Capitulo4/Img/GestionRnf/BaseDatos.jpg  used on input 
+line 462.
+(pdftex.def)             Requested size: 371.30594pt x 330.05748pt.
+LaTeX Info: Redefining \. on input line 466.
+LaTeX Info: Redefining \% on input line 466.
+ [32]
+LaTeX Info: Redefining \. on input line 484.
+LaTeX Info: Redefining \% on input line 484.
+ [33 <./Capitulo4/Img/GestionRnf/BaseDatos.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[]|[]\OT1/cmr/bx/sc/10.95 Caractersti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[]|\OT1/cmr/bx/sc/10.95 Tolerancia a
+ []
+
+
+Overfull \hbox (23.0619pt too wide) in paragraph at lines 514--514
+[]|\OT1/cmr/m/n/10.95 Particionamiento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+\OT1/cmr/m/n/10.95 y re-pli-ca-
+ []
+
+
+Overfull \hbox (7.82314pt too wide) in paragraph at lines 514--514
+[]|\OT1/cmr/m/n/10.95 HTTP/REST| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 514--514
+[]|\OT1/cmr/m/n/10.95 Similar a
+ []
+
+LaTeX Info: Redefining \. on input line 530.
+LaTeX Info: Redefining \% on input line 530.
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+[]|[]\OT1/cmr/bx/sc/10.95 Google
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+[]|\OT1/cmr/bx/sc/10.95 Experiencia con
+ []
+
+LaTeX Info: Redefining \. on input line 572.
+LaTeX Info: Redefining \% on input line 572.
+[35]
+Underfull \hbox (badness 1158) in paragraph at lines 601--601
+[]|\OT1/cmr/m/n/10.95 Desarrollo orien-ta-do a com-po-
+ []
+
+LaTeX Info: Redefining \. on input line 607.
+LaTeX Info: Redefining \% on input line 607.
+[36]
+Underfull \hbox (badness 1540) in paragraph at lines 629--629
+[]|\OT1/cmr/m/n/10.95 Su co-mu-ni-dad no es
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 tan am-plia de-bi-do a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+[]|\OT1/cmr/m/n/10.95 Ofrece buen ren-di-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 mien-to de-bi-do a que
+ []
+
+
+Overfull \hbox (9.32811pt too wide) in paragraph at lines 629--629
+[]|\OT1/cmr/bx/sc/10.95 Documentacion| 
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 629--629
+[]|\OT1/cmr/m/n/10.95 Cuenta con la do-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+[]|\OT1/cmr/bx/sc/10.95 Curva de
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 PHP es un len-gua-je
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+[]|\OT1/cmr/m/n/10.95 Tiene la cur-va de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 apren-di-za-je me-nos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 pro-nun-cia-da, de-bi-do
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 a que es un mar-co
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 629--629
+[]|\OT1/cmr/m/n/10.95 Curva de apren-di-za-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 je mas pro-nun-cia-da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 en com-pa-ra-cion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 los otros mar-cos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 de-bi-do su fi-lo-sofa
+ []
+
+
+Underfull \hbox (badness 5878) in paragraph at lines 629--629
+\OT1/cmr/m/n/10.95 de con-ven-cion so-bre
+ []
+
+
+Overfull \hbox (7.602pt too wide) in paragraph at lines 629--629
+[]|\OT1/cmr/bx/sc/10.95 Mantenibilidad| 
+ []
+
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+[37]
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+ [38]
+<Capitulo4/Img/Mesa2.png, id=882, 917.4275pt x 764.8575pt>
+File: Capitulo4/Img/Mesa2.png Graphic file (type png)
+<use Capitulo4/Img/Mesa2.png>
+Package pdftex.def Info: Capitulo4/Img/Mesa2.png  used on input line 656.
+(pdftex.def)             Requested size: 453.82396pt x 378.3547pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 656--657
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 668.
+LaTeX Info: Redefining \% on input line 668.
+[39 <./Capitulo4/Img/Mesa2.png>]
+LaTeX Info: Redefining \. on input line 713.
+LaTeX Info: Redefining \% on input line 713.
+ [40]
+Overfull \hbox (15.43181pt too wide) in paragraph at lines 739--755
  [][][] 
  []
 
-LaTeX Info: Redefining \. on input line 201.
-LaTeX Info: Redefining \% on input line 201.
-[26]
-Overfull \hbox (7.28474pt too wide) in paragraph at lines 231--232
+
+Underfull \hbox (badness 1789) in paragraph at lines 790--790
+[]|\OT1/cmr/m/n/10.95 Reporta in-ci-den-te a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+[]|\OT1/cmr/m/n/10.95 Solicita in-for-ma-cion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+[]|\OT1/cmr/m/n/10.95 Categorizacion de
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 790--790
+[]|\OT1/cmr/m/n/10.95 Asigancion de aten-
+ []
+
+LaTeX Info: Redefining \. on input line 792.
+LaTeX Info: Redefining \% on input line 792.
+[41]
+Overfull \vbox (7.53189pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 792.
+LaTeX Info: Redefining \% on input line 792.
+
+[42]
+<Capitulo4/Img/Regitro_de_Incidente.png, id=905, 794.97pt x 614.295pt>
+File: Capitulo4/Img/Regitro_de_Incidente.png Graphic file (type png)
+<use Capitulo4/Img/Regitro_de_Incidente.png>
+Package pdftex.def Info: Capitulo4/Img/Regitro_de_Incidente.png  used on input 
+line 800.
+(pdftex.def)             Requested size: 371.30594pt x 286.92836pt.
+<Capitulo4/Img/Levantamiento_inc/home.png, id=907, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/Levantamiento_inc/home.png Graphic file (type png)
+<use Capitulo4/Img/Levantamiento_inc/home.png>
+Package pdftex.def Info: Capitulo4/Img/Levantamiento_inc/home.png  used on inpu
+t line 810.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 810--811
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
-[27]
-LaTeX Info: Redefining \. on input line 260.
-LaTeX Info: Redefining \% on input line 260.
- [28]
-LaTeX Info: Redefining \. on input line 305.
-LaTeX Info: Redefining \% on input line 305.
- [29]
-Overfull \hbox (56.5129pt too wide) in paragraph at lines 334--335
+LaTeX Info: Redefining \. on input line 814.
+LaTeX Info: Redefining \% on input line 814.
+[43 <./Capitulo4/Img/Regitro_de_Incidente.png>]
+<Capitulo4/Img/Levantamiento_inc/Registro.png, id=914, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/Levantamiento_inc/Registro.png Graphic file (type png)
+<use Capitulo4/Img/Levantamiento_inc/Registro.png>
+Package pdftex.def Info: Capitulo4/Img/Levantamiento_inc/Registro.png  used on 
+input line 817.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 817--818
  [][] 
  []
 
+LaTeX Info: Redefining \. on input line 821.
+LaTeX Info: Redefining \% on input line 821.
+[44 <./Capitulo4/Img/Levantamiento_inc/home.png>]
+LaTeX Info: Redefining \. on input line 825.
+LaTeX Info: Redefining \% on input line 825.
+ [45 <./Capitulo4/Img/Levantamiento_inc/Registro.png>]
+LaTeX Info: Redefining \. on input line 886.
+LaTeX Info: Redefining \% on input line 886.
+ [46]
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+[]|\OT1/cmr/m/n/10.95 Coordinador de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 967--967
+[]|\OT1/cmr/m/n/10.95 Solicita va-li-da-cion con el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+[]|\OT1/cmr/m/n/10.95 Coordinador de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+\OT1/cmr/m/n/10.95 Agentes de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+[]|\OT1/cmr/m/n/10.95 Coordinador de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+\OT1/cmr/m/n/10.95 Agentes de la
+ []
+
+LaTeX Info: Redefining \. on input line 969.
+LaTeX Info: Redefining \% on input line 969.
+[47]
+
+LaTeX Warning: Reference `' on page 48 undefined on input line 976.
+
+<Capitulo4/Img/GestionInc/GestionINC.png, id=936, 1889.0575pt x 1302.8675pt>
+File: Capitulo4/Img/GestionInc/GestionINC.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/GestionINC.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/GestionINC.png  used on input
+ line 981.
+(pdftex.def)             Requested size: 371.30594pt x 256.07597pt.
+LaTeX Info: Redefining \. on input line 985.
+LaTeX Info: Redefining \% on input line 985.
+[48]
+<Capitulo4/Img/GestionInc/Home.png, id=942, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionInc/Home.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/Home.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/Home.png  used on input line 
+1006.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1006--1007
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1010.
+LaTeX Info: Redefining \% on input line 1010.
+[49 <./Capitulo4/Img/GestionInc/GestionINC.png>]
+<Capitulo4/Img/GestionInc/Documentar-nuevo-seg.png, id=950, 1445.4pt x 1027.84p
+t>
+File: Capitulo4/Img/GestionInc/Documentar-nuevo-seg.png Graphic file (type png)
+
+<use Capitulo4/Img/GestionInc/Documentar-nuevo-seg.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/Documentar-nuevo-seg.png  use
+d on input line 1014.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1014--1015
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1018.
+LaTeX Info: Redefining \% on input line 1018.
+[50 <./Capitulo4/Img/GestionInc/Home.png>]
+<Capitulo4/Img/GestionInc/Documentar-seg.png, id=957, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionInc/Documentar-seg.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/Documentar-seg.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/Documentar-seg.png  used on i
+nput line 1030.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1030--1031
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1034.
+LaTeX Info: Redefining \% on input line 1034.
+[51 <./Capitulo4/Img/GestionInc/Documentar-nuevo-seg.png>]
+<Capitulo4/Img/GestionInc/cierre.png, id=965, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionInc/cierre.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/cierre.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/cierre.png  used on input lin
+e 1039.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1039--1040
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1043.
+LaTeX Info: Redefining \% on input line 1043.
+[52 <./Capitulo4/Img/GestionInc/Documentar-seg.png>]
+<Capitulo4/Img/GestionInc/Asi-Almacen.png, id=973, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionInc/Asi-Almacen.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/Asi-Almacen.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/Asi-Almacen.png  used on inpu
+t line 1049.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1049--1050
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
+[53 <./Capitulo4/Img/GestionInc/cierre.png>]
+<Capitulo4/Img/GestionInc/Asi-almacen-sol.png, id=980, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionInc/Asi-almacen-sol.png Graphic file (type png)
+<use Capitulo4/Img/GestionInc/Asi-almacen-sol.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInc/Asi-almacen-sol.png  used on 
+input line 1065.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1065--1066
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1069.
+LaTeX Info: Redefining \% on input line 1069.
+[54 <./Capitulo4/Img/GestionInc/Asi-Almacen.png>]
+LaTeX Info: Redefining \. on input line 1076.
+LaTeX Info: Redefining \% on input line 1076.
+ [55 <./Capitulo4/Img/GestionInc/Asi-almacen-sol.png>]
+LaTeX Info: Redefining \. on input line 1131.
+LaTeX Info: Redefining \% on input line 1131.
+ [56]
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1187
+[]|\OT1/cmr/m/n/10.95 Documentacion de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1187
+[]|\OT1/cmr/m/n/10.95 Docuemntacion de
+ []
+
+LaTeX Info: Redefining \. on input line 1192.
+LaTeX Info: Redefining \% on input line 1192.
+[57]
+<Capitulo4/Img/GestionAc/GestionActivos.png, id=1004, 909.3975pt x 853.1875pt>
+File: Capitulo4/Img/GestionAc/GestionActivos.png Graphic file (type png)
+<use Capitulo4/Img/GestionAc/GestionActivos.png>
+Package pdftex.def Info: Capitulo4/Img/GestionAc/GestionActivos.png  used on in
+put line 1224.
+(pdftex.def)             Requested size: 371.30594pt x 348.35106pt.
+LaTeX Info: Redefining \. on input line 1228.
+LaTeX Info: Redefining \% on input line 1228.
+ [58]
+<Capitulo4/Img/GestionAc/Home.png, id=1010, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionAc/Home.png Graphic file (type png)
+<use Capitulo4/Img/GestionAc/Home.png>
+Package pdftex.def Info: Capitulo4/Img/GestionAc/Home.png  used on input line 1
+235.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1235--1236
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1239.
+LaTeX Info: Redefining \% on input line 1239.
+[59 <./Capitulo4/Img/GestionAc/GestionActivos.png>]
+<Capitulo4/Img/GestionAc/Almacen-Doc.png, id=1017, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionAc/Almacen-Doc.png Graphic file (type png)
+<use Capitulo4/Img/GestionAc/Almacen-Doc.png>
+Package pdftex.def Info: Capitulo4/Img/GestionAc/Almacen-Doc.png  used on input
+ line 1246.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1246--1247
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1250.
+LaTeX Info: Redefining \% on input line 1250.
+[60 <./Capitulo4/Img/GestionAc/Home.png>]
+<Capitulo4/Img/GestionAc/Almacen-despachar.png, id=1024, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionAc/Almacen-despachar.png Graphic file (type png)
+<use Capitulo4/Img/GestionAc/Almacen-despachar.png>
+Package pdftex.def Info: Capitulo4/Img/GestionAc/Almacen-despachar.png  used on
+ input line 1255.
+(pdftex.def)             Requested size: 453.82396pt x 322.72052pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1255--1256
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1259.
+LaTeX Info: Redefining \% on input line 1259.
+[61 <./Capitulo4/Img/GestionAc/Almacen-Doc.png>]
+LaTeX Info: Redefining \. on input line 1269.
+LaTeX Info: Redefining \% on input line 1269.
+ [62 <./Capitulo4/Img/GestionAc/Almacen-despachar.png>]
+Underfull \hbox (badness 5460) in paragraph at lines 1324--1325
+[]\OT1/cmr/m/n/10.95 Dar in-for-ma-cion en for-ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1325--1326
+[]\OT1/cmr/m/n/10.95 Proporcionar in-for-ma-cion
+ []
+
+LaTeX Info: Redefining \. on input line 1330.
+LaTeX Info: Redefining \% on input line 1330.
+[63]
+<Capitulo4/Img/GestionInf/informes.png, id=1042, 1445.4pt x 853.1875pt>
+File: Capitulo4/Img/GestionInf/informes.png Graphic file (type png)
+<use Capitulo4/Img/GestionInf/informes.png>
+Package pdftex.def Info: Capitulo4/Img/GestionInf/informes.png  used on input l
+ine 1377.
+(pdftex.def)             Requested size: 453.82396pt x 267.88324pt.
+
+Overfull \hbox (41.259pt too wide) in paragraph at lines 1377--1378
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 1384.
+LaTeX Info: Redefining \% on input line 1384.
+[64]
+LaTeX Info: Redefining \. on input line 1428.
+LaTeX Info: Redefining \% on input line 1428.
+ [65 <./Capitulo4/Img/GestionInf/informes.png>]
+<Capitulo4/Img/GestionUser/Gestion_User.png, id=1054, 684.5575pt x 620.3175pt>
+File: Capitulo4/Img/GestionUser/Gestion_User.png Graphic file (type png)
+<use Capitulo4/Img/GestionUser/Gestion_User.png>
+Package pdftex.def Info: Capitulo4/Img/GestionUser/Gestion_User.png  used on in
+put line 1434.
+(pdftex.def)             Requested size: 309.4237pt x 280.38971pt.
+LaTeX Info: Redefining \. on input line 1441.
+LaTeX Info: Redefining \% on input line 1441.
+ [66 <./Capitulo4/Img/GestionUser/Gestion_User.png>]
+LaTeX Info: Redefining \. on input line 1504.
+LaTeX Info: Redefining \% on input line 1504.
+ [67]
+LaTeX Info: Redefining \. on input line 1536.
+LaTeX Info: Redefining \% on input line 1536.
+ [68]
+LaTeX Info: Redefining \. on input line 1570.
+LaTeX Info: Redefining \% on input line 1570.
+ [69]
+LaTeX Info: Redefining \. on input line 1604.
+LaTeX Info: Redefining \% on input line 1604.
+ [70]
+LaTeX Info: Redefining \. on input line 1636.
+LaTeX Info: Redefining \% on input line 1636.
+ [71]
+<Capitulo4/Img/GestionUser/Home-admin.png, id=1088, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionUser/Home-admin.png Graphic file (type png)
+<use Capitulo4/Img/GestionUser/Home-admin.png>
+Package pdftex.def Info: Capitulo4/Img/GestionUser/Home-admin.png  used on inpu
+t line 1649.
+(pdftex.def)             Requested size: 309.4237pt x 220.0246pt.
+LaTeX Info: Redefining \. on input line 1653.
+LaTeX Info: Redefining \% on input line 1653.
+ [72]
+<Capitulo4/Img/GestionUser/Eliminar.png, id=1094, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionUser/Eliminar.png Graphic file (type png)
+<use Capitulo4/Img/GestionUser/Eliminar.png>
+Package pdftex.def Info: Capitulo4/Img/GestionUser/Eliminar.png  used on input 
+line 1659.
+(pdftex.def)             Requested size: 309.4237pt x 220.0246pt.
+LaTeX Info: Redefining \. on input line 1666.
+LaTeX Info: Redefining \% on input line 1666.
+ [73 <./Capitulo4/Img/GestionUser/Home-admin.png> <./Capitulo4/Img/GestionUser/
+Eliminar.png>]
+<Capitulo4/Img/GestionUser/Modificar_Datos.png, id=1103, 1445.4pt x 1027.84pt>
+File: Capitulo4/Img/GestionUser/Modificar_Datos.png Graphic file (type png)
+<use Capitulo4/Img/GestionUser/Modificar_Datos.png>
+Package pdftex.def Info: Capitulo4/Img/GestionUser/Modificar_Datos.png  used on
+ input line 1669.
+(pdftex.def)             Requested size: 309.4237pt x 220.0246pt.
+File: Capitulo4/Img/GestionUser/Modificar_Datos.png Graphic file (type png)
+<use Capitulo4/Img/GestionUser/Modificar_Datos.png>
+Package pdftex.def Info: Capitulo4/Img/GestionUser/Modificar_Datos.png  used on
+ input line 1678.
+(pdftex.def)             Requested size: 309.4237pt x 220.0246pt.
+LaTeX Info: Redefining \. on input line 1682.
+LaTeX Info: Redefining \% on input line 1682.
+ [74 <./Capitulo4/Img/GestionUser/Modificar_Datos.png>]
+LaTeX Info: Redefining \. on input line 1684.
+LaTeX Info: Redefining \% on input line 1684.
+ [75]
+<Capitulo4/Diagramas/Completo.png, id=1116, 1110.1475pt x 1196.47pt>
+File: Capitulo4/Diagramas/Completo.png Graphic file (type png)
+<use Capitulo4/Diagramas/Completo.png>
+Package pdftex.def Info: Capitulo4/Diagramas/Completo.png  used on input line 1
+693.
+(pdftex.def)             Requested size: 391.93544pt x 422.40384pt.
+LaTeX Info: Redefining \. on input line 1717.
+LaTeX Info: Redefining \% on input line 1717.
+ [76 <./Capitulo4/Diagramas/Completo.png>]
+LaTeX Info: Redefining \. on input line 1738.
+LaTeX Info: Redefining \% on input line 1738.
+ [77]
+LaTeX Info: Redefining \. on input line 1758.
+LaTeX Info: Redefining \% on input line 1758.
+ [78]
+LaTeX Info: Redefining \. on input line 1800.
+LaTeX Info: Redefining \% on input line 1800.
+ [79]
+LaTeX Info: Redefining \. on input line 1820.
+LaTeX Info: Redefining \% on input line 1820.
+ [80]
+LaTeX Info: Redefining \. on input line 1842.
+LaTeX Info: Redefining \% on input line 1842.
+ [81]
+LaTeX Info: Redefining \. on input line 1863.
+LaTeX Info: Redefining \% on input line 1863.
+ [82]
+LaTeX Info: Redefining \. on input line 1885.
+LaTeX Info: Redefining \% on input line 1885.
+ [83]
+LaTeX Info: Redefining \. on input line 1906.
+LaTeX Info: Redefining \% on input line 1906.
+ [84]
+LaTeX Info: Redefining \. on input line 1927.
+LaTeX Info: Redefining \% on input line 1927.
+ [85]
+LaTeX Info: Redefining \. on input line 1948.
+LaTeX Info: Redefining \% on input line 1948.
+ [86]
+LaTeX Info: Redefining \. on input line 1969.
+LaTeX Info: Redefining \% on input line 1969.
+ [87]
+LaTeX Info: Redefining \. on input line 1990.
+LaTeX Info: Redefining \% on input line 1990.
+ [88]
+LaTeX Info: Redefining \. on input line 2011.
+LaTeX Info: Redefining \% on input line 2011.
+
+[89]
+LaTeX Info: Redefining \. on input line 2032.
+LaTeX Info: Redefining \% on input line 2032.
+ [90]
+LaTeX Info: Redefining \. on input line 2053.
+LaTeX Info: Redefining \% on input line 2053.
+ [91]
+LaTeX Info: Redefining \. on input line 2074.
+LaTeX Info: Redefining \% on input line 2074.
+ [92]
+LaTeX Info: Redefining \. on input line 2075.
+LaTeX Info: Redefining \% on input line 2075.
+ [93]
+<Capitulo4/Diagramas/BaseDatos.png, id=1194, 1010.77625pt x 1164.35pt>
+File: Capitulo4/Diagramas/BaseDatos.png Graphic file (type png)
+<use Capitulo4/Diagramas/BaseDatos.png>
+Package pdftex.def Info: Capitulo4/Diagramas/BaseDatos.png  used on input line 
+2083.
+(pdftex.def)             Requested size: 391.93544pt x 451.483pt.
 )
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
- [30]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [94 <./Capitulo4/Diagramas/BaseDatos.png>]
 \openout2 = `Capitulo5/Conclusiones.aux'.
 
- (Capitulo5/Conclusiones.tex
+
+(Capitulo5/Conclusiones.tex
 Cap\'{\i }tulo 5.
-) [31
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
+[95
 
 
 
 
 ]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [96]) [97]
 \openout2 = `Apendice1/Apendice1.aux'.
 
  (Apendice1/Apendice1.tex) (tesis.bbl (tesis.brf)
 \tf@brf=\write8
 \openout8 = `tesis.brf'.
 
- [32
+ [98
 
 
 \FN@pp@footnotehinttrue 
@@ -1151,7 +1882,7 @@ Cap\'{\i }tulo 5.
 
 Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
-) [33] (tesis.aux
+) [99] (tesis.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  (Resumen/Resumen.aux) (Introduccion/Introduccion.aux)
@@ -1161,19 +1892,25 @@ LaTeX Info: Redefining \% on input line 24.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 08E95AEAAC100443F4DA68BB3BABD0EC;10138.
+(rerunfilecheck)             Checksum: 3FB73104865CE48AFD2A6832C52F39D6;24994.
 Package rerunfilecheck Info: File `tesis.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17409 strings out of 478927
- 270958 string characters out of 2862392
- 675412 words of memory out of 3000000
- 34767 multiletter control sequences out of 15000+600000
- 412609 words of font info for 61 fonts, out of 8000000 for 9000
+ 18086 strings out of 478927
+ 286051 string characters out of 2862392
+ 683350 words of memory out of 3000000
+ 35217 multiletter control sequences out of 15000+600000
+ 412955 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,14n,122p,1483b,665s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 125i,14n,122p,1483b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\ricar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -1182,10 +1919,11 @@ s/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tesis.pdf (43 pages, 551239 bytes).
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on tesis.pdf (111 pages, 2705667 bytes).
 PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1347 PDF objects out of 1440 (max. 8388607)
+ 300 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
 
