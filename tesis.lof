@@ -31,3 +31,17 @@
 \contentsline {figure}{\numberline {4.23}{\ignorespaces Diagrama de clases del sistema\relax }}{76}{figure.caption.61}%
 \contentsline {figure}{\numberline {4.24}{\ignorespaces Diagrama de base de datos\relax }}{94}{figure.caption.80}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Deploy de Sprint Boot en Repositorio de Github\relax }}{107}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Azure App Service "deplyBakendHelpdesk"\relax }}{108}{figure.caption.95}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Deploy de Angular en Visual Estudio Code y sincronizado con Azure App Service \relax }}{109}{figure.caption.96}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Azure App Service "deployfronendHelpdesk"\relax }}{109}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Instancia aprovisionada de Azure Database for Mysql\relax }}{110}{figure.caption.98}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Login de Helpdesk\relax }}{111}{figure.caption.99}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Administración de Usuarios\relax }}{112}{figure.caption.100}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Registro de Ticket en el sistema\relax }}{113}{figure.caption.101}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Lista de Ticket Creados\relax }}{113}{figure.caption.102}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Asignacion de Ticket\relax }}{114}{figure.caption.103}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Documentación de Ticket\relax }}{114}{figure.caption.104}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Cierre de Ticket\relax }}{115}{figure.caption.105}%
+\addvspace {10\p@ }

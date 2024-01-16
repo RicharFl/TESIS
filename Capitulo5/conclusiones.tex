@@ -1,28 +1,35 @@
 \chapter{Conclusiones y Recomendaciones}
 
-Aquí se describen varias conclusiones y recomendaciones que se han evidenciado
-a lo largo del estudio del tema y el desarrollo práctico de varios procesos de la
+En dicho capitulo se describen conclusiones y recomendaciones que se han evidenciado
+a lo largo del estudio del tema y el desarrollo práctico de la
 mesa de ayuda, efectivamente la implementación de ITIL en los servicios que
-brinda una PyME, tiene como objetivo mejorar la gestión
+brinda una PyME, tiene como objetivo mejorar la gestión, aunque se manifiesta lo siguiente:
 \subsection{Conclusiones}
 
 \begin{enumerate}[1.]
+	\item El enfoque de la Mesa de Servicio, se realizo en los procesos de mejora en una PyME, sin considerar   los costos asociados que esto conlleva, los cuales durante el proceso de desarrollo, nos dimos cuenta que son altos, tanto de desarrollo, como en implementación, por lo que es un requerimiento poco costeable para las PyMEs de México
+	
 \item A través de la metodología de ITIL, se ha realizado la estrategia y  diseño  de una Mesa de Servicios para una  PyME de México, identificando la situación actual de la misma al brindar un servicio de TI.
 
 \item No es necesario cumplir al 100 \% con todas las buenas prácticas, ITIL es un
 marco de referencia y la empresa que la implemente, debe seleccionar las
 funciones y procesos que requiere implementar, es decir se debe personalizar
-según las necesidades reales de las empresas. 
+según las necesidades reales de las empresas, para este caso solo aplica el marco de atención y gestion de Incidentes, dejando por fuera, mejora continua y gestión de Problemas 
 \item El diseño de la mesa de servicio tiene como objetivo principal el mitigar el  bajo nivel de SLA  con el que cuenta al día de hoy la PyME, para lo cual se crearon y mejoraron procesos por igual se  homologo la información de los servicios dados, estas descritas en el portafolio de servicios y el catalogo de servicios, teniendo estos puntos cumplidos sugeridos por ITIL, se genero una matriz de impacto, así mismo como el nivel de SLA por servicio y cliente. 
 \item Esta mesa de ayuda, permite realizar un seguimiento a cada uno de los
 ticket, consultando su historial  y el estado en el que se encuentren, siguiendo los procesos de creación o levantamiento de incidentes, gestión de incidente donde se concentrara la mayor carga de procesos, ya que sera la encargada de dar solución al incidente, escalando el tema a otro usuario o solicitando requerimientos al almancen y por ultimo el cierre, donde se genera el VoBo por parte del cliente. 
 
-\item Con esta solución, tendremos una base de datos actualizada y consolidada, basa en un modelo SQL, a la cual podemos recurrir en cualquier momento para dar seguimiento a las atenciones del cliente. Esta solución nos da un valor agregado, un adicional a su objetivo principal que es la atención y solución adecuada, como por ejemplo, nos entrega una
-CMDB de equipos y hardware, los cuales serán utilizadas por el área de almacén para el seguimiento de inventarios de equipo así mismo un historial de Tickets atendidos, solucionados, por región, ciudad, zona, cuenta o  ingeniero. 
+\item Con esta solución, tendremos una base de datos actualizada y consolidada, basa en un modelo SQL, a la cual podemos recurrir en cualquier momento para dar seguimiento a las atenciones del cliente. Esta solución nos da un valor agregado, un adicional a su objetivo principal que es la atención y solución adecuada.
 
-\item Para poder cumplir con los requerimientos del cliente y de la mesa de servicios, esta  se implementara en un servicio web, desarrollo con una arquitectura de MVC, teniendo en su desarrollo de fron end con HTLM,  CSS, Java Scrip - Angular.js y su Back end desplegado en Java-Spring Boot ofrece la mejor compatibilidad con micro servicios.
+\item Para poder cumplir con los requerimientos del cliente y de la mesa de servicios, esta  se implementara en un servicio web, desarrollo con una arquitectura de MVC, teniendo en su desarrollo de fron end con HTLM,  CSS, Java Scrip - Angular.js y su Back end desplegado en Java-Spring Boot ofrece la mejor compatibilidad con  servicios.
+
 
 \item Para cumplir con la disponibilidad propuesta del servicio, 24 horas, 7 días de la semana, se analizo los proveedores de nube que proporcionan un mejor rendimiento para cubrir  los requerimientos del sistema por lo cual se implementara en AZURE de Microsoft.
+\item El alto costo de aprovisionamiento en la Nube de Azure hace poco costeable la implementación en dicha arquitectura. 
+\item Derivado del costo elevado en el despliegue de la aplicación en la Nube, se opto por una implementación gratuita, lo cual implica que los recursos son compartido, esto afecta directamente en el rendimiento de la aplicación. 
+
+\item Para poder implementar adecuadamente un servicio de este tipo se requiere, una equipo para el análisis y desarrollo, ya que es un proyecto con muchas directrices que puede tomar dicho sistema
+
 
 
 
